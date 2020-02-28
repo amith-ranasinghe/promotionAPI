@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amith-ranasinghe/promotionAPI/issues"
   },
-  "homepage": "https://github.com/amith-ranasinghe/promotionAPI#readme"
+  "homepage": "https://github.com/amith-ranasinghe/promotionAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
