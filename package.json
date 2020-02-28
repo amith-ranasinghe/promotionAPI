@@ -1,22 +1,16 @@
 {
   "name": "promotionapi",
-  "version": "1.0.0",
-  "description": "promotion api",
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "THis is Test"
+    "start": "node ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amith-ranasinghe/promotionAPI.git"
-  },
-  "author": "Amith Ranasinghe",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/amith-ranasinghe/promotionAPI/issues"
-  },
-  "homepage": "https://github.com/amith-ranasinghe/promotionAPI#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
   }
 }
