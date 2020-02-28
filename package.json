@@ -1,0 +1,19 @@
+{
+  "name": "promotionapi",
+  "version": "1.0.0",
+  "description": "promotion api",
+  "main": "index.js",
+  "scripts": {
+    "test": "THis is Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amith-ranasinghe/promotionAPI.git"
+  },
+  "author": "Amith Ranasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amith-ranasinghe/promotionAPI/issues"
+  },
+  "homepage": "https://github.com/amith-ranasinghe/promotionAPI#readme"
+}
